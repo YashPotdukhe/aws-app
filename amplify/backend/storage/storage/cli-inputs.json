@@ -1,0 +1,12 @@
+{
+  "resourceName": "storage",
+  "policyUUID": "bc13ecd3",
+  "bucketName": "bucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
